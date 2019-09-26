@@ -1,3 +1,4 @@
+require 'pry'
 class Vehicle
 attr_accessor :wheel_size, :wheel_number
 
@@ -15,3 +16,4 @@ end
   end
 
 end
+binding.pry
