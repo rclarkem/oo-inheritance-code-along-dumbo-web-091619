@@ -5,3 +5,4 @@ class Car < Vehicle
     "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
   end
 end
+binding.pry
